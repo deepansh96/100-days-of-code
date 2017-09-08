@@ -33,3 +33,12 @@
 
 **Link to work:** [Day 3](https://github.com/dalmia/100-days-of-code/tree/master/Day%203)
 
+### Day 4: September 8, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Day 4](https://github.com/dalmia/100-days-of-code/tree/master/Day%204)
+
+

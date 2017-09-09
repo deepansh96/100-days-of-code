@@ -24,3 +24,21 @@
 **Thoughts:** Today I really felt low at certain times and felt like quitting, but the quest for the challenge kept me going.
 
 **Link to work:** [Day 2](https://github.com/dalmia/100-days-of-code/tree/master/Day%202)
+
+### Day 3: September 7, 2017
+
+**Today's Progress**: Chinese Remainder Theorem, Lucas theorem & Sum-string problem
+
+**Thoughts:** Completing the sum-string problem gave me a real joy and I have decided to properly comment all my code so that it would be easier for someone reading it to understand what's happening.
+
+**Link to work:** [Day 3](https://github.com/dalmia/100-days-of-code/tree/master/Day%203)
+
+### Day 4: September 8, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Day 4](https://github.com/dalmia/100-days-of-code/tree/master/Day%204)
+
+

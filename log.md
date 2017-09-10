@@ -41,5 +41,12 @@
 
 **Link to work:** [Day 4](https://github.com/dalmia/100-days-of-code/tree/master/Day%204)
 
+### Day 5: September 9, 2017
+
+**Today's Progress**: Image Processing Course - Quantization & Sampling, Image Compression
+
+**Thoughts:** I am enjoying this course which is justifying the excitement which I always get when I think about "Image Processing".
+
+**Link to work:** [Day 5](https://github.com/dalmia/100-days-of-code/tree/master/Day%205)
 
 

@@ -35,10 +35,11 @@
 
 ### Day 4: September 8, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Matrix Multiplication Problem, Longest Substring Problem
 
-**Thoughts:** 
+**Thoughts:** I realize I am doing silly mistakes even though I come up with a first solution reasonably quickly. Need to practise speed more.
 
 **Link to work:** [Day 4](https://github.com/dalmia/100-days-of-code/tree/master/Day%204)
+
 
 

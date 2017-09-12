@@ -51,11 +51,18 @@
 
 ### Day 6: September 10, 2017
 
-**Today's Progress**: Continue my work on my Bachelor Thesis Project - documenting our codebase, implementing CNN in Tensorflow  & studying GANs.
+**Today's Progress**: Continue my work on my Bachelor Thesis Project - documenting our codebase & studying GANs.
 
 **Thoughts:** GANs are so cool and the kind of research that has been going into it is awesome. I definitely want to look at this more.
 
 **Link to work:** Sorry the repo is private!
 
+### Day 7: September 11, 2017
+
+**Today's Progress**: Continue my work on my Bachelor Thesis Project - implementing CNN for our data and comparing with those achieved with LSTM.
+
+**Thoughts:** We managed to surpass what other people had achieved on the task. Yay!
+
+**Link to work:** Sorry the repo is private!
 
 

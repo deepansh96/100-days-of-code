@@ -49,4 +49,13 @@
 
 **Link to work:** [Day 5](https://github.com/dalmia/100-days-of-code/tree/master/Day%205)
 
+### Day 6: September 10, 2017
+
+**Today's Progress**: Continue my work on my Bachelor Thesis Project - documenting our codebase, implementing CNN in Tensorflow  & studying GANs.
+
+**Thoughts:** GANs are so cool and the kind of research that has been going into it is awesome. I definitely want to look at this more.
+
+**Link to work:** Sorry the repo is private!
+
+
 

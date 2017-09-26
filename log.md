@@ -49,4 +49,39 @@
 
 **Link to work:** [Day 5](https://github.com/dalmia/100-days-of-code/tree/master/Day%205)
 
+### Day 6: September 10, 2017
+
+**Today's Progress**: Continue my work on my Bachelor Thesis Project - documenting our codebase & studying GANs.
+
+**Thoughts:** GANs are so cool and the kind of research that has been going into it is awesome. I definitely want to look at this more.
+
+**Link to work:** Sorry the repo is private!
+
+### Day 7: September 11, 2017
+
+**Today's Progress**: Continue my work on my Bachelor Thesis Project - implementing CNN for our data and comparing with those achieved with LSTM.
+
+**Thoughts:** We managed to surpass what other people had achieved on the task. Yay!
+
+**Link to work:** Sorry the repo is private!
+
+
+### Day 8: September 25, 2017
+
+**Today's Progress**: Video & Image Compression (coursera course),  Discrete Cosine Transform
+
+**Thoughts:** Implementing the nitty gritty details of JPEG, fascinating how people came up with these.
+
+**Link to work:** [Day 8](https://github.com/dalmia/100-days-of-code/tree/master/Day%208)
+
+### Day 9: September 26, 2017
+
+**Today's Progress**: Spatial processing (coursera course)
+
+**Thoughts:** Implementing median filtering, non-local means & histogram equalization. Image Processing is beautiful!
+
+**Link to work:** [Day 9](https://github.com/dalmia/100-days-of-code/tree/master/Day%209)
+
+
+
 

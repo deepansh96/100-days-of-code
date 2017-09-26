@@ -74,7 +74,7 @@
 
 **Link to work:** [Day 8](https://github.com/dalmia/100-days-of-code/tree/master/Day%208)
 
-### Day 8: September 26, 2017
+### Day 9: September 26, 2017
 
 **Today's Progress**: Spatial processing (coursera course)
 

@@ -66,3 +66,22 @@
 **Link to work:** Sorry the repo is private!
 
 
+### Day 8: September 25, 2017
+
+**Today's Progress**: Video & Image Compression (coursera course),  Discrete Cosine Transform
+
+**Thoughts:** Implementing the nitty gritty details of JPEG, fascinating how people came up with these.
+
+**Link to work:** [Day 8](https://github.com/dalmia/100-days-of-code/tree/master/Day%208)
+
+### Day 8: September 26, 2017
+
+**Today's Progress**: Spatial processing (coursera course)
+
+**Thoughts:** Implementing median filtering, non-local means & histogram equalization. Image Processing is beautiful!
+
+**Link to work:** [Day 9](https://github.com/dalmia/100-days-of-code/tree/master/Day%209)
+
+
+
+
